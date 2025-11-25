@@ -2,5 +2,6 @@
 Medical Appoitment
 
 uvicorn main:app --reload (1st screen)
-streamlit run frontend.py
+
+streamlit run frontend.py (2nd screen)
 
