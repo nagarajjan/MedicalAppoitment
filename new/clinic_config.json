@@ -1,0 +1,10 @@
+{
+  "platform_title": "MEDMATCH HEALTH SYSTEM",
+  "address": "123 Medical Plaza, NY",
+  "phone": "555-0199",
+  "email": "support@medmatch.ai",
+  "website": "www.medmatch.ai",
+  "currency_symbol": "$",
+  "cancellation_threshold_hours": 24,
+  "receipt_download_days": 365
+}
